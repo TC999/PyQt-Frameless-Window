@@ -1,4 +1,4 @@
-pywin32==227 ; sys_platform=="win32"
+pywin32==301 ; sys_platform=="win32"
 xcffib==0.11.1; sys_platform=="linux"
 pyobjc ; sys_platform=="darwin"
 PyCocoa ; sys_platform=="darwin"
